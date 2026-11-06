@@ -8,7 +8,7 @@
 ## About
 Aspiring web developer learning by building practical projects and creating clean, useful web experiences.
 
-## Currently learning
+## Skills
 HTML, CSS, JavaScript, and Bootstrap
 
 ## Featured project
