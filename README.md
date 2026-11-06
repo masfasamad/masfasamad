@@ -12,8 +12,8 @@ Aspiring web developer learning by building practical projects and creating clea
 HTML, CSS, JavaScript, and Bootstrap
 
 ## Featured project
-- [Alberto-Clocks](https://github.com/masfasamad/Alberto-Clocks) — A web clock project.
-- All of my projects are available at [my GitHub repositories](https://github.com/masfasamad?tab=repositories).
+- [Alberto-Clocks](https://github.com/masfasamad/Alberto-Clocks) - A web clock project.
+- All of my projects are available at https://github.com/masfasamad?tab=repositories
 
 ## Languages and tools
 <p>
