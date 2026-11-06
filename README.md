@@ -14,9 +14,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" alt="HTML, CSS, JavaScript, Bootstrap, Git, and GitHub" />
 </p>
-
-### GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=masfasamad&show_icons=true&theme=transparent" alt="Masfa Samad's GitHub statistics" />
-</p>
