@@ -13,7 +13,7 @@ HTML, CSS, JavaScript, and Bootstrap
 
 ## Featured project
 - [Alberto-Clocks](https://github.com/masfasamad/Alberto-Clocks) - A web clock project.
-- All of my projects are available at https://github.com/masfasamad?tab=repositories
+- view all my projects : https://github.com/masfasamad?tab=repositories
 
 ## Languages and tools
 <p>
